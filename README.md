@@ -10,7 +10,7 @@ Du kannst für dieses Projekt den bereits gebauten Weihnachtsstern oder einen an
 ## Variante 1
 Dazu musst du ``||basic:beim Start||`` dem Calliope wieder beibringen, wo der Neopixel angeschlossen ist. <br>
 In die ``||basic:dauerhaft||``- Schleife kannst du den Block ``||neopixel.strip:zeige Balkendiagramm||`` und eine ``||basic:Pause||`` einfügen. <br>
-Das Balkendiagramm soll von der gemessenen ``||inputs: lautstärke||`` bis zu einem Maximalwert gezeichnet werden (bei mir war 90 ein guter Maximalwert, diesen kannst du von 255 langsam verringern und experimentell herausfinden).
+Das Balkendiagramm soll von der gemessenen ``||input: lautstärke||`` bis zu einem Maximalwert gezeichnet werden (bei mir war 90 ein guter Maximalwert, diesen kannst du von 255 langsam verringern und experimentell herausfinden).
 
 ```blocks
 let strip = neopixel.create(DigitalPin.P1, 24, NeoPixelMode.RGB)
