@@ -1,6 +1,6 @@
 # WeihnachtsfeierLicht
 ## ~avatar avatar @unplugged
-![PartyStern](https://github.com/r00b1nh00d/weihnachtsfeierlicht/blob/master/PartyStern3.gif?raw=true)
+![PartyStern](https://github.com/r00b1nh00d/weihnachtsparty/blob/master/PartyStern3.gif?raw=true)
 
 ## ~ @unplugged
 Du kannst für dieses Projekt den bereits gebauten Weihnachtsstern oder einen anderen Streifen des RGB-LED Bands nutzen. Beginnen wir erstmal mit einer einfachen Variante, bei der ein Lautstärkebalken vom ersten bis zum letzten Pixel gezeichnet wird.
@@ -35,34 +35,3 @@ Um dies zu programmieren musst du dieses Tutorial verlassen und [hier im nächst
 
 
 
-
-> Diese Seite bei [https://r00b1nh00d.github.io/weihnachtsparty/](https://r00b1nh00d.github.io/weihnachtsparty/) öffnen
-
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/r00b1nh00d/weihnachtsparty** suchen und importieren
-
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/r00b1nh00d/weihnachtsparty/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/r00b1nh00d/weihnachtsparty** ein und klicke auf Importieren
-
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/r00b1nh00d/weihnachtsparty/raw/master/.github/makecode/blocks.png)
-
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
